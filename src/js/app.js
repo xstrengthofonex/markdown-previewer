@@ -48,7 +48,7 @@ And here. | Okay. | I think we get it.
 - Even if you use dashes or asterisks.
 * And last but not least, let's not forget embedded images:
 
-<img src="http://www.stickpng.com/assets/images/5847f91ccef1014c0b5e48b8.png" width="200px"/>
+![FreeCodeCamp Logo](https://secure.meetupstatic.com/photos/event/4/c/b/b/600_468259643.jpeg)
 `
 
 function loadMarkdownIntoPreview(markdownString){
