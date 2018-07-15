@@ -4,7 +4,7 @@ renderer.link = function (href, title, text) {
 }
 
 var placeholder = 
-`# Welcome to my React Markdown Previewer!
+`# Markdown Previewer!
 
 ## This is a sub-heading...
 ### And here's some other cool stuff:
@@ -48,7 +48,7 @@ And here. | Okay. | I think we get it.
 - Even if you use dashes or asterisks.
 * And last but not least, let's not forget embedded images:
 
-![React Logo w/ Text](https://goo.gl/Umyytc)
+<img src="http://www.stickpng.com/assets/images/5847f91ccef1014c0b5e48b8.png" width="200px"/>
 `
 
 function loadMarkdownIntoPreview(markdownString){
